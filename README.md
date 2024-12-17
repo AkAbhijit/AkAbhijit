@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
     <a href="https://github.com/AkAbhijit">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkAbhijit&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=FFC300&text_color=ffffff&icon_color=FF5733&hide_border=true" alt="Top Languages" />
     </a>
-    <a href="https://github.com/AkAbhijit">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=AkAbhijit&hide_border=true&background=0D1117&currStreakLabel=FFC300&sideLabels=FFFFFF&currStreakNum=FFC300&dates=FFFFFF&sideNums=FFFFFF&fire=FF5733&ring=FF5733&stroke=FFFFFFFF" alt="GitHub Streak" />
+    <a href="[https://github.com/AkAbhijit](https://git.io/streak-stats)">
+        <img src="[https://github-readme-streak-stats.herokuapp.com?user=AkAbhijit&hide_border=true&background=0D1117&currStreakLabel=FFC300&sideLabels=FFFFFF&currStreakNum=FFC300&dates=FFFFFF&sideNums=FFFFFF&fire=FF5733&ring=FF5733&stroke=FFFFFFFF](https://streak-stats.demolab.com?user=akabhijit&theme=github-dark-blue)" alt="GitHub Streak" />
     </a>
 </p>
 
